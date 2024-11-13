@@ -3,9 +3,7 @@
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-py -3 -m venv .venv
-source .venv/bin/activate
-source setup.sh
+
 ```
 
 # Configuración en Windows
